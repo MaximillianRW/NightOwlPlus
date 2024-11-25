@@ -1,0 +1,32 @@
+{
+    /*********
+    ** Generic Mod Config Menu UI
+    *********/
+    // main options
+    "config.fishtimes.label": "Alterar horário dos peixes",
+    "config.fishtimes.tooltip": "Altera o horário dos peixes para que eles apareçam após 1:50 AM. Reiniciar o jogo é recomendado depois de mudar está opção. (Padrão: Habilitada)",
+
+    "config.latenightlights.label": "Cuidar da luz tarde da noite",
+    "config.latenightlights.tooltip": "Cuida da trasição da luz da noite para o dia. Desabilite se você tem outro mod que faça isso. Reiniciar o jogo é recomendado depois de mudar está opção. (Padrão: Habilitada)",
+
+    "config.latenightmusic.label": "Cuidar da música tarde da noite",
+    "config.latenightmusic.tooltip": "Cuida da música ambiente da noite para o dia. Desabilite se você tem outro mod que faça isso. Reiniciar o jogo é recomendado depois de mudar está opção. (Padrão: Habilitada)",
+
+    "config.notimeshake.label": "Não agite o relógio",
+    "config.notimeshake.tooltip": "Suprime a agitação do relógio tarde da noite. (Padrão: Habilitada)",
+
+    "config.restoreposition.label": "Restaurar posição de jogador",
+    "config.restoreposition.tooltip": "O Jogador será transportado de volta para sua posição quando o novo dia começar ao alcançar 6:00 AM. (Padrão: Habilitada)",
+
+    "config.getexhausted.label": "Exaustão ao virar a noite",
+    "config.getexhausted.tooltip": "O Jogador receberá exaustão ao alcançar 6:00 AM. (Padrão: Habilitada)",
+
+    "config.customstamina.label": "Rest. de Energia personalizada",
+    "config.customstamina.tooltip": "O Jogador terá sua Energia restaurada baseada nas horas descansadas. (ALERTA: Se desabilitada, o jogo pode não calcular a Energia restaurada corretamente se o dia terminar depois das 1:50 AM) (Padrão: Habilitada)",
+
+    "config.customhealth.label": "Rest. de Saúde personalizada",
+    "config.customhealth.tooltip": "O Jogador terá sua Saúde restaurada baseada nas horas descansadas. (ALERTA: Se desabilitada, o jogo pode não calcular a Saúde restaurada corretamente se o dia terminar depois das 1:50 AM) (Padrão: Habilitada)",
+
+    "config.fullresthours.label": "Horas para descanso completo",
+    "config.fullresthours.tooltip": "Número de horas necessárias para o jogador restaurar completamente a Energia e/ou Saúde. Usada pelas opções de restauração personalizadas acima. (Padrão: 6)"
+}

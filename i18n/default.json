@@ -1,0 +1,32 @@
+{
+    /*********
+    ** Generic Mod Config Menu UI
+    *********/
+    // main options
+    "config.fishtimes.label": "Edit fish times",
+    "config.fishtimes.tooltip": "Edit fish times to they appears after 1:50 AM. Restart the game is recommended after changing this option. (Default: Enabled)",
+
+    "config.latenightlights.label": "Take care of late night light",
+    "config.latenightlights.tooltip": "Take care of night-to-day light transition. Disable if you use another mod that does this. Restart the game is recommended after chaning this option. (Default: Enabled)",
+
+    "config.latenightmusic.label": "Take care of late night music",
+    "config.latenightmusic.tooltip": "Take care of night-to-day music ambient. Disable if you use another mod that does this. Restart the game is recommended after changing this option.  (Default: Enabled)",
+
+    "config.notimeshake.label": "No clock shake",
+    "config.notimeshake.tooltip": "Suppress the clock shaking late night. (Default: Enabled)",
+
+    "config.restoreposition.label": "Restore player position",
+    "config.restoreposition.tooltip": "Player will be warped back to their position when new day starts at reaching 6:00 AM. (Default: Enabled)",
+
+    "config.getexhausted.label": "Exhausted on day turning",
+    "config.getexhausted.tooltip": "Player gets exhausted at reaching 6:00 AM. (Default: Enabled)",
+
+    "config.customstamina.label": "Custom Stamina restoration",
+    "config.customstamina.tooltip": "Player has their Stamina restored based on hours rested. (ALERT: If disabled, game may not calculate Stamina restored correctly if day ends after 1:50 AM) (Default: Enabled)",
+
+    "config.customhealth.label": "Custom Health restoration",
+    "config.customhealth.tooltip": "Player has their Health restored based on hours rested. (ALERT: If disabled, game may not calculate Health restored correctly if day ends after 1:50 AM) (Default: Enabled)",
+
+    "config.fullresthours.label": "Hours to full rest",
+    "config.fullresthours.tooltip": "Number of hours necessary to player fully restore Stamina and/or Health. Used by the custom restoration options above. (Default: 6)"
+}

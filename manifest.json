@@ -1,0 +1,10 @@
+{
+  "Name": "Night Owl Plus",
+  "Author": "MaximillianRW",
+  "Version": "1.0.0",
+  "Description": "Stay Up All Night",
+  "UniqueID": "MaximillianRW.NightOwlPlus",
+  "EntryDll": "NightOwlPlus.dll",
+  "MinimumApiVersion": "4.1.0",
+  "UpdateKeys": [ "Nexus:29714" ]
+}
